@@ -1,4 +1,4 @@
-package com.example.easynotes;
+package com.project.test_webservices;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
