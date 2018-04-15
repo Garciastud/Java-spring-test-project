@@ -5,8 +5,8 @@ import java.sql.*;
 
 public class JdbcConnection {
     final private String url = "jdbc:mysql://localhost:3306/webservice3?autoReconnect=true&relaxAutoCommit=true&useSSL=false";
-    final private String user = "root";
-    final private String password = "19950807";
+    final private String user = "";
+    final private String password = "";
     Connection con=null;
     Statement stmt=null;
     PreparedStatement pstmt=null;
